@@ -23,6 +23,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%230072C6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/BASH-%4EAA25.svg?style=for-the-badge&logoColor=white)
+
 
 **Frameworks/Libraries**
 
