@@ -8,7 +8,7 @@
 - I'm living now in Ho Chi Minh City, Viet Nam. 
 
 - I realized that I have a strong passionate about data stuff , so I decided to improve my knowledge and pursue an attractive position in data engineer to get into data world.
-- 📄 Know about my experiences at **[my resume](https://drive.google.com/file/)**
+- 📄 Know about my experiences at **[my resume](https://drive.google.com/file/d/1nbwUszLOQyff0s2W8JcSUF5ZwTC6EcDV/view?usp=sharing)**
 
 
 ## 🛠 Knowledges/Skills
