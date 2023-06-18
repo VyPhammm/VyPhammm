@@ -7,7 +7,8 @@
 
 - I'm living now in Ho Chi Minh City, Viet Nam. 
 
-- I realized that I have a strong passionate about data stuff , so I decided to improve my knowledge and pursue an attractive position in data engineer to get into data world.
+- I am a devoted Data Engineer cum Data Analyst. I have hands-on experience designing end-to-end solutions for BI and ETL big data
+pipelines. I currently work as a freelancer for several data analytics projects.
 - 📄 Know about my experiences at **[my resume](https://drive.google.com/file/d/1KDoQU2XJY9m8a0YDcj-CHnoPP7pzrWD2/view?usp=sharing)**
 
 
