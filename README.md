@@ -8,7 +8,7 @@
 - I'm living now in Ho Chi Minh City, Viet Nam. 
 
 - I am a devoted Data Engineer. I have hands-on experience designing end-to-end solutions ETL big data
-pipelines and DataOps. I currently work as a freelancer for several data analytics projects.
+pipelines and DataOps. I currently work as a freelancer for several data engineer projects.
 - 📄 Know about my experiences at **[my resume](https://drive.google.com/file/d/1KDoQU2XJY9m8a0YDcj-CHnoPP7pzrWD2/view?usp=sharing)**
 
 
