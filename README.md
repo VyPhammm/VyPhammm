@@ -17,7 +17,7 @@ pipelines and DataOps. I currently work as a freelancer for several data enginee
 **Keywords**
 
 ![Data Engineer](https://img.shields.io/badge/Data%20Engineer-%2314354C.svg?style=for-the-badge&logoColor=white) 
-![Cloud Engineer](https://img.shields.io/badge/CLOUD%20ENGINEER-0078d7.svg?style=for-the-badge&logoColor=white)
+![Cloud Engineer](https://img.shields.io/badge/DATA%20OPS-0078d7.svg?style=for-the-badge&logoColor=white)
 
 **Database**
 
