@@ -50,6 +50,6 @@ pipelines and DataOps. I currently work as a freelancer for several data enginee
 
 
 ---
-<p align="center">Thanks for watching my profile! Have a nice day! </p>
+<p align="center">Thanks for watching my profile! </p>
 <p align="center">
 
