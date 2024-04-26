@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vy</h1>
-<h3 align="center">A passionate data engineer from Vietnam</h3>
+<h3 align="center">A data guy</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VyPhammm?tab=repositories](https://github.com/VyPhammm?tab=repositories)
 
@@ -8,7 +8,7 @@
 - I'm living now in Ho Chi Minh City, Viet Nam. 
 
 - I am a devoted Data Engineer. I have hands-on experience designing end-to-end solutions ETL big data
-pipelines and DataOps. I currently work as a freelancer for several data engineer projects.
+pipelines and DataOps. Have experienced with modern techinique and tools: Airflow, dbt, Spark, Hadoop, Kafka, Hive.
 - 📄 Know about my experiences at **[my resume](https://drive.google.com/file/d/121aZvwaoDaKm-kDzlpOfI7XI__tA5gke/view?usp=sharing)**
 
 
