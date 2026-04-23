@@ -10,7 +10,7 @@
 - I am a devoted Data Engineer. I have hands-on experience designing end-to-end solutions ETL big data
 pipelines and DataOps. Have experienced with modern techinique and tools: Airflow, dbt, Spark, Hadoop, Kafka, Hive.
 - 📄 Know about my experiences at
-  **My Resume** : https://drive.google.com/drive/folders/1nvZ8GL24a2aaawKslpGHBX2PECaxr4O8?usp=sharing
+  
 
 
 ## 🛠 Knowledges/Skills
